@@ -22,3 +22,17 @@ After buying a domain, add it in **Settings > Pages > Custom domain** and update
 
 ## Contact forms
 The included forms are frontend demo only. For live submissions, connect Google Forms, Formspree, Netlify Forms, or a backend.
+
+
+## Included documents
+
+The `downloads/` folder contains print-ready PDF and editable DOCX files:
+
+- `first-meeting-agenda-resolution.pdf/.docx`
+- `full-policy-constitution.pdf/.docx`
+- `kyc-income-declaration-form.pdf/.docx`
+- `member-registration-form.pdf/.docx`
+
+The `docs/` folder contains:
+
+- `full-policy-constitution.md` - Markdown version of the full policy for GitHub reading/version control.
