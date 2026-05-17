@@ -36,3 +36,15 @@ The `downloads/` folder contains print-ready PDF and editable DOCX files:
 The `docs/` folder contains:
 
 - `full-policy-constitution.md` - Markdown version of the full policy for GitHub reading/version control.
+
+
+## Linked downloadable files
+
+- downloads/first-meeting-agenda-resolution.pdf and .docx
+- downloads/full-policy-constitution.pdf and .docx
+- docs/full-policy-constitution.md
+- downloads/member-registration-form.pdf and .docx
+- downloads/kyc-income-declaration-form.pdf and .docx
+- downloads/savings-governance-tracker.xlsx
+
+These files are linked from Home, Membership, Policies, and Contact pages using relative paths, so they work on GitHub Pages.
